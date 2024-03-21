@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background: rgb(107, 107, 241);
+            font: normal 15pt Arial;
+        }
+
+        header {
+            color: white;
+            text-align: center;
+        }
+
+        section {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            width: 50%;
+            margin: auto;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+        }
+
+        footer {
+            color: white;
+            text-align: center;
+            font-style: italic;
+        }
+    </style>
+    <title>Exercicio 02 - Ex018 - Age Verifier</title>
+</head>
+<body>
+    <header>
+        <h1>Age Verifier</h1>
+    </header>
+    <section>
+        <div>
+            <p>Birth Year: 
+                <input type="number" name="txtyear" id="txtyear" min="0">
+            </p>
+            <p>Gender:
+                <input type="radio" name="radgender" id="m" checked>
+                <label for="m">Male</label>
+                <input type="radio" name="radgender" id="f">
+                <label for="f">Female</label>
+            </p>
+            <p>
+                <input type="button" value="Verify" onclick="verify()">
+            </p>
+        </div>
+        <div id="res">
+            Complete the above fields to see the results.
+        </div>
+    </section>
+    <footer>
+        <p>Made by &copy; TechEira</p>
+    </footer>
+    <script src="ex018.js"></script>
+</body>
+</html>
