@@ -1,5 +1,5 @@
-var now = new Date()
-var hour = now.getHours()
+var today = new Date()
+var hour = today.getHours()
 
 if(hour < 12){
     window.alert(`Good Morning. It's ${hour} AM`)
