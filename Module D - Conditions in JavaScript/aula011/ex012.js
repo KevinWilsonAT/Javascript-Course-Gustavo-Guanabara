@@ -1,5 +1,5 @@
 /*
-    IF ELSE (pt. 2):
+    IF ... ELSE (pt. 2):
 
         Condition types:
 
