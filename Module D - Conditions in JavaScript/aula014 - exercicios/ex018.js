@@ -12,7 +12,9 @@ function verify() {
         var age = year - Number(fyear.value)
         var gender = ''
         var img = document.createElement('img')
+
         img.setAttribute('id', 'photo')
+
         if(fgender[0].checked){
             gender = 'Male'
             
