@@ -1,7 +1,7 @@
-var now = new Date()
-var weekday = now.getDay()
+var today = new Date()
+var weekday = today.getDay()
 
-switch(day){
+switch(weekday){
     case 0:
         window.alert("Sunday")
     break
