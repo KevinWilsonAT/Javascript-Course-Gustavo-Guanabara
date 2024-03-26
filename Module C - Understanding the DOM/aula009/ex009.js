@@ -6,5 +6,6 @@ function sum(){
     var number1 = Number(txtNumber1.value)
     var number2 = Number(txtNumber2.value)
     var sum = number1 + number2
+
     result.innerHTML = `The sum between ${number1} and ${number2} is ${sum}.`
 }
