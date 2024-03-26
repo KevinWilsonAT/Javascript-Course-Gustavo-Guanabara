@@ -4,11 +4,11 @@
 //   &&    Conjunction (Logic AND)
 //   ||    Disjunction (Logic OR)
 
-// Ternary Operator
+//   Ternary Operator
 
 //    <logic_test> ? <true_test_result> : <false_test_result>
 
-// General Precendence
+//   General Precendence
 
 //   1)    ()
 //   2)    **

@@ -4,7 +4,6 @@
 //   -     Subtraction
 //   *     Multiplication
 //   /     Division
-
 //   %     Modulo
 //   **    Potentiation
 
