@@ -8,6 +8,6 @@ else{
         window.alert("Can Vote Optionally")
     }
     else{
-        window.alert("Can Vote Obligatory")
+        window.alert("Obligatory Vote")
     }
 }
