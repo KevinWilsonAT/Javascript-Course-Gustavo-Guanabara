@@ -14,12 +14,4 @@
             do{
                 <commands_block1>
             } while(<condition>)
-
-    LOOPING COMMAND WITH WITH CONTROL CONDITION (FOR):
-
-        Syntax:
-        
-            for(<start>; <end>; <step>){
-                <commands_block1>
-            }
 */
