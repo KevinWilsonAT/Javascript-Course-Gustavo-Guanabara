@@ -48,7 +48,6 @@
     querySelectorAll()
     
     #       used in selector for id tag in HTML (in CSS works the same way)
-    .       used in selector for class tag in HTML (in CSS works the same way)
-    
-    */
+    .       used in selector for class tag in HTML (in CSS works the same way)    
+*/
     
